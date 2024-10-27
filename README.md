@@ -8,8 +8,8 @@ Welcome to Forks and Flames
   
   -> About Us: Provides background information about the restaurant with a creative, rhyming touch.
   
-  -> ontact Page: Contains dummy location, phone number, and email for the restaurant.
+  -> Contact Page: Contains dummy location, phone number, and email for the restaurant.
   
-  -> ogin: Allows users to sign up and log in with basic credentials (name, email, password).
+  -> Login: Allows users to sign up and log in with basic credentials (name, email, password).
   
   -> Cart Functionality: Items added to the cart are managed through Redux, and a real-time popup displays the number of items added.
