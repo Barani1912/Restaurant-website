@@ -1,9 +1,9 @@
 import React from 'react';
 import './Home.css';
-import photo1 from '../assets/photo1.jpg';
-import pic1 from '../assets/pic1.avif'
-import pic14 from '../assets/pic14.jpg'
-import pic28 from '../assets/pic28.avif'
+import photo1 from '../../assets/photo1.jpg';
+import pic1 from '../../assets/pic1.avif'
+import pic14 from '../../assets/pic14.jpg'
+import pic28 from '../../assets/pic28.avif'
 import { FaPizzaSlice, FaCocktail, FaStar, FaLeaf, FaFish } from "react-icons/fa";
 
 function Home() {

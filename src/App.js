@@ -2,13 +2,13 @@ import React, { useState } from 'react';
 import './App.css'
 import { Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
-import Cart from './pages/Cart';
-import AboutUsPage from './pages/AboutUsPage';
-import HomePage from './pages/HomePage';
-import ContactUsPage from './pages/ContactUsPage';
-import MenuPage from './pages/MenuPage';
-import LoginPage from './pages/LoginPage';
-import SignUpPage from './pages/SignUpPage';
+import Cart from './pages/cart/Cart';
+import AboutUsPage from './pages/about/AboutUsPage';
+import HomePage from './pages/home/HomePage';
+import ContactUsPage from './pages/contact/ContactUsPage';
+import MenuPage from './pages/menu/MenuPage';
+import LoginPage from './pages/login/LoginPage';
+import SignUpPage from './pages/signup/SignUpPage';
 import ErrorHandling from './pages/ErrorHandling';
 
 function App() {

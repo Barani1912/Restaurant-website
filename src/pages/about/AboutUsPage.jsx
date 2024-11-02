@@ -1,7 +1,7 @@
 import React from 'react'; 
 import './AboutUs.css';
-import ambianceImage from '../assets/restaurant-pic.jpeg';
-import foodImage from '../assets/foodImage.avif';
+import ambianceImage from '../../assets/restaurant-pic.jpeg';
+import foodImage from '../../assets/foodImage.avif';
 
 const chefImage = 'https://www.greavesindia.co.uk/wp-content/uploads/2016/11/chefdamu.jpg';
 
