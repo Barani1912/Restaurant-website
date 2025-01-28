@@ -21,7 +21,7 @@ const MenuPage = () => {
     { id: 12190008, name: 'BBQ Ribs', price: 499, image: 'https://img.freepik.com/premium-photo/bbq-smoked-ribs-with-black-background_1040322-4432.jpg' },
     { id: 12190009, name: 'Fried Chicken', price: 299, image: 'https://static.vecteezy.com/system/resources/previews/027/671/371/non_2x/crispy-fried-chicken-on-the-wooden-board-with-dark-lighting-and-black-background-food-and-delivery-concept-generative-ai-free-photo.jpg' },
     { id: 12190010, name: 'Steak', price: 649, image: 'https://www.shutterstock.com/image-photo/fresh-juicy-delicious-beef-steak-600nw-1898765446.jpg' },
-    { id: 12190011, name: 'Sushi', price: 449, image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3D%2522sushi%2Bblack%2Bbackground%2522&psig=AOvVaw36r7WFW5RP2YvUlC8jeKKN&ust=1738139051001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiJjOT-l4sDFQAAAAAdAAAAABAE' },
+    { id: 12190011, name: 'Sushi', price: 449, image: 'https://img.freepik.com/free-photo/highly-detailed-seafood-sushi-dish-with-simple-black-background_23-2151349393.jpg?t=st=1738054021~exp=1738057621~hmac=2507df0c17b22a31c1694d7e118c52c8d443b414c7704408f067fefe855c5ed0&w=996' },
     { id: 12190012, name: 'Pad Thai', price: 349, image: 'https://img.freepik.com/premium-photo/pad-thai-stirfried-noodles-with-chicken-peanuts-herbs-black-background_766625-10640.jpg' },
     { id: 12190013, name: 'Pasta Bolognese', price: 379, image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS65Amo51B1Fu8H2T60cZuDu8uPh029668ZFw&s' },
     { id: 12190014, name: 'Grilled Salmon', price: 599, image: 'https://t3.ftcdn.net/jpg/06/18/61/84/360_F_618618402_D4nCkRznRalepGIcuvXIzT8uLdzFBYuF.jpg' },
